@@ -1,5 +1,5 @@
 # Open-Source-Peristaltic-Pump
-xxx.
+Here is an open-source and low-cost peristaltic pump project for soft robotic, micro-fluidic applications and bio-applications. For this project 4 print part is required, no support with PLA, tolerances are already arranged in design files. Arduino script is based on continuous rotation and can be modified for different speeds/directions.
 
 Bill of Materials (BOM);
 - Nema17 Stepper Motor (x1)
