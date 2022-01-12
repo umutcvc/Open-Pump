@@ -2,7 +2,7 @@
 xxx.
 
 Bill of Materials (BOM);
--Nema17 Stepper Motor
+- Nema17 Stepper Motor
 
 3D model of the pump;
 ![](03_Images/Design.PNG)
