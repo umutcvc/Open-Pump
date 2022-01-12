@@ -9,12 +9,16 @@ Bill of Materials (BOM);
 - M3x8 Socket Cap Bolt (x4)
 - M3x12 Socket Cap Bolt (x4)
 - Printed parts (x4)
+- Capacitor 100 picofarad (x1)
 
 3D model of the pump;
 ![](03_Images/Design.PNG)
 
 Example Circuit Set-up;
 ![](03_Images/circuit.PNG)
+
+Pump View;
+![](03_Images/pump.PNG)
 
 Youtube demonstration;
 xxx
