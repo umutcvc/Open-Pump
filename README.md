@@ -2,6 +2,8 @@
 
 xxx.
 
+*Bill of Materials (BOM);
+
 *3D model of the pump;
 ![](03_Images/Design.PNG)
 
