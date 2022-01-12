@@ -3,10 +3,10 @@
 xxx.
 
 *3D model of the pump;
-![](Images/Design.PNG)
+![](03_Images/Design.PNG)
 
 *Example Circuit Set-up;
-![](Images/Circuit.PNG)
+![](03_Images/circuit.PNG)
 
 *Youtube demonstration;
 xxx
