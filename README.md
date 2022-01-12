@@ -18,7 +18,7 @@ Example Circuit Set-up;
 ![](03_Images/circuit.PNG)
 
 Pump View;
-![](03_Images/pump.jpg)
+![](03_Images/pump.JPG)
 
 Youtube demonstration;
 xxx
